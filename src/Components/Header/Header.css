@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #28C76F;
+   
+    
+}
+
+.header h1{
+    margin: 0;
+    font-size: 30px;
+    
+}
+
+.logout-button{
+    background-color: #8C1BAB;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
